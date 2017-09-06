@@ -1,10 +1,10 @@
 <nav id="menu">
     <div class="element_menu">
-        <h3>Menu forumaire</h3>
+
         <ul>
-            <li><a href="page1.html">Lien</a></li>
-            <li><a href="page2.html">Lien</a></li>
-            <li><a href="page3.html">Lien</a></li>
+            <li><a href="forumlaire .php">formulaire</a></li>
+            <li><a href="menu.php">menu</a></li>
+            <li><a href="pied_de_page.php">pied de page</a></li>
         </ul>
     </div>
 </nav>

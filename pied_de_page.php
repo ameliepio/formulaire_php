@@ -1,6 +1,7 @@
-
-<div>
-<p>Apied de page</p> <br>
+<footer>
 
 
-</div>
+
+
+
+</footer>
