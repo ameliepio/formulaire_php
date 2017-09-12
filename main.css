@@ -95,6 +95,21 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+#hello{
+
+
+  margin-left: 26px;
+  font-style: italic;
+font-weight: bold;
+font-size: 18px;
+}
+
+#menu{
+
+margin-right: 12px;
+
+}
+
 .href{
   border: 2px solid;
   border-radius: 3px;
