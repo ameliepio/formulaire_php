@@ -17,8 +17,20 @@ echo "le fichier ne depasse pas 1Mo";
                 $extension_upload = $infosfichier['extension'];
                 $extensions_autorisees = array('jpg', 'jpeg', 'gif', 'png');
 echo "l'extension est autorisée";
+?><php
+<form action="cible_envoi.php" method="post" enctype="multipart/form-data">
 
 
+
+                <input type="file" name="monfichier" /><br />
+
+                <input type="submit" value="Envoyer le fichier" />
+
+        </p>
+
+</form>
+
+<?php
 
                 if (in_array($extension_upload, $extensions_autorisees))
                 {
